@@ -1,6 +1,6 @@
-# X-Team NN Style Guide
+# X-Team 56 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+We all agree Professor Gary Dahl's style guide from our time in CS 300.
 
 ## Naming conventions
 
