@@ -26,7 +26,10 @@ all other members of the group will assist as they can in order to ensure that t
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+We will make sure that we message each other on a daily basis, try to assign
+work properly, and help one another out if a situation arises. By messaging
+each other, we can keep track of progress and make sure that work is being completed 
+on time.
 
 
 
