@@ -19,7 +19,8 @@ We agree to use camel case for variable names, and all upper case for constant v
 
 ## Commenting style for public and private members of a class or interface:
 
-2 Lines or less '//' will be used for commenting, Lines 3 or more, '/** */' will be used.
+2 Lines or less '//' will be used for commenting, Lines 3 or more, '/* */' will be used. Classes, methods, and constructors use
+'/** */' for Javadoc formatting.
 
 ### Examples
 
