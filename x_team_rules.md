@@ -10,12 +10,13 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+We will discuss our strengths and weaknesses and assign tasks corresponding to our strengths. 
+If time permits, we will reassign tasks if any individual is encumbered with their current workload.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-We will track each others progress within github and leave detailed comments on what we have done.
+
 
 ## How will will communicate difficulties with a task assigned to us
 We will bring up any concerns of ours to the other members in the group after giving it our own best effort. From there,
