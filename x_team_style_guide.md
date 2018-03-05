@@ -1,10 +1,10 @@
-# X-Team 56 Style Guide
+# X00256 Style Guide
 
-We all agree Professor Gary Dahl's style guide from our time in CS 300.
+<brief description of your team's opinion or philosophy regarding Style Guides>
 
 ## Naming conventions
 
-We agree to use camel case for variable names, and all upper case for constant variables. Classes and interfaces have first letter of each word capitalized.
+<brief statement describing your team's naming conventions>
 
 ### Examples
 * interfaces- Comparable, SearchTreeADT, PriorityQueueADT
@@ -19,16 +19,17 @@ We agree to use camel case for variable names, and all upper case for constant v
 
 ## Commenting style for public and private members of a class or interface:
 
-2 Lines or less '//' will be used for commenting, Lines 3 or more, '/* */' will be used. Classes, methods, and constructors use
-'/** */' for Javadoc formatting.
+<brief statement of your team's commenting style>
+2 Lines or less '//' will be used for commenting, Lines 3 or more, '/** */' will be used.
+We will not be using the multi-line comment '/* */'.
 
 ### Examples
 
 * classes '/** */'
-* fields '//' or '/* */' if a longer explanation is needed
+* fields '//'
 * constructors '/** */'
 * methods '/** */'
-* coding style (brackets, horizontal, and vertical spacing) for:
+* coding style (parantheses, brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
   * while loops
