@@ -9,6 +9,8 @@
        * GitHub username 4: erdman3
        * GitHub username 5:
    * When did you complete this exercise? 
+      We started this exercise over the weekend by setting up the repository and having all group members read 
+      about the assignment, and learn about GitHub. We then met up on March 5th at 6:00 pm to finish it as a team. 
    * How long did it take your team to complete this exercise? 
 
 ## Table of Contents
