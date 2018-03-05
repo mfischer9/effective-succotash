@@ -2,9 +2,11 @@
 
 <brief description of your team's opinion or philosophy regarding Style Guides>
 
+
 ## Naming conventions
 
 <brief statement describing your team's naming conventions>
+We agree to use camel case for variable names, and all upper case for classes and interfaces.
 
 ### Examples
 * interfaces
