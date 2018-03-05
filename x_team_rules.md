@@ -15,7 +15,7 @@ and missed deadlines.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will track each others progress within github and leave detailed comments on what we have done.
 
 ## How will will communicate difficulties with a task assigned to us
 We will bring up any concerns of ours to the other members in the group after giving it our own best effort. From there,
