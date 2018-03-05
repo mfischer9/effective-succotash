@@ -1,4 +1,4 @@
-# super-octo-system
+# effective-succotash
 
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
@@ -12,6 +12,7 @@
       We started this exercise over the weekend by setting up the repository and having all group members read 
       about the assignment, and learn about GitHub. We then met up on March 5th at 6:00 pm to finish it as a team. 
    * How long did it take your team to complete this exercise? 
+      Took our team around half hour once we met up and found a place to work together.
 
 ## Table of Contents
 
