@@ -16,7 +16,8 @@ If time permits, we will reassign tasks if any individual is encumbered with the
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will track each others progress through github and make sure everyone is completing tasks. We will also use groupme as our 
+way of communicating with one another. Groupme is the main way for messages to get between members.
 
 ## How will will communicate difficulties with a task assigned to us
 We will bring up any concerns of ours to the other members in the group after giving it our own best effort. From there,
