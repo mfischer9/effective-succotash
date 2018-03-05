@@ -4,7 +4,7 @@ We all agree Professor Gary Dahl's style guide from our time in CS 300.
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+We agree to use camel case for variable names, and all upper case for constant variables. Classes and interfaces have first letter of each word capitalized.
 
 ### Examples
 * interfaces- Comparable, SearchTreeADT, PriorityQueueADT
@@ -19,7 +19,6 @@ We all agree Professor Gary Dahl's style guide from our time in CS 300.
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
 2 Lines or less '//' will be used for commenting, Lines 3 or more, '/** */' will be used.
 
 ### Examples
