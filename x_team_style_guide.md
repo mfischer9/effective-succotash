@@ -25,7 +25,7 @@
 ### Examples
 
 * classes '/** */'
-* fields '//'
+* fields '//' or '/* */' if a longer explanation is needed
 * constructors '/** */'
 * methods '/** */'
 * coding style (brackets, horizontal, and vertical spacing) for:
