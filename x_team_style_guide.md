@@ -1,12 +1,10 @@
-# X-Team NN Style Guide
+# X-Team 56 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
-
+We all agree Professor Gary Dahl's style guide from our time in CS 300.
 
 ## Naming conventions
 
 <brief statement describing your team's naming conventions>
-We agree to use camel case for variable names, and all upper case for classes and interfaces.
 
 ### Examples
 * interfaces
