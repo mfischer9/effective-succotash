@@ -10,7 +10,8 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+We will discuss our strengths and weaknesses and assign tasks corresponding to our strengths. 
+If time permits, we will reassign tasks if any individual is encumbered with their current workload.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
